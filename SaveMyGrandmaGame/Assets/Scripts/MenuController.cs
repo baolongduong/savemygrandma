@@ -6,9 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour
 {
+    public AudioSource ad;
     public void PlayGame()
     {
-        SceneManager.LoadScene("BeginAnimation");
+        /*SceneManager.LoadScene("BeginAnimation");*/
+        ad.Stop();
+        SceneManager.LoadScene("Level01");
     }
     public void GoToInstruction()
     {
