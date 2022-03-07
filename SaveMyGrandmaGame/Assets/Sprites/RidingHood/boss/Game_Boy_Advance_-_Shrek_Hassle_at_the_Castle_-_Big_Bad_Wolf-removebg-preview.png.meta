@@ -1,7 +1,85 @@
 fileFormatVersion: 2
 guid: 1c76b21e141b8a942a9703217571f3fc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5863185732077148525
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_0
+  - first:
+      213: 8964817605001783067
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_1
+  - first:
+      213: 5967474643759281748
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_2
+  - first:
+      213: 6165247176118371744
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_3
+  - first:
+      213: 8613165396730840059
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_4
+  - first:
+      213: 5363959522448030230
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_5
+  - first:
+      213: -9165622493478959583
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_6
+  - first:
+      213: -4893484773749941156
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_7
+  - first:
+      213: -2930188627625173477
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_8
+  - first:
+      213: 5453496361026498206
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_9
+  - first:
+      213: -1688418464144391146
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_10
+  - first:
+      213: -2548044503418289810
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_11
+  - first:
+      213: 2776080023730690354
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_12
+  - first:
+      213: 148120744698192341
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_13
+  - first:
+      213: -352716181426948100
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_14
+  - first:
+      213: 1236767373691847589
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_15
+  - first:
+      213: -2909750750351774587
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_16
+  - first:
+      213: -6841344544594718261
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_17
+  - first:
+      213: 5458987126299469182
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_18
+  - first:
+      213: -4931914510440767585
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_19
+  - first:
+      213: -783185386916392469
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_30
+  - first:
+      213: 7669171657273378944
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_31
+  - first:
+      213: -8099758780338489492
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_32
+  - first:
+      213: 5996609711994357888
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_33
+  - first:
+      213: 8660538373076865831
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_35
+  - first:
+      213: 4533321143127670574
+    second: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_37
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +119,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +153,579 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 202
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396276324a7c1aea0800000000000000
+      internalID: -5863185732077148525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 202
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ac463d1e696c70800000000000000
+      internalID: 8964817605001783067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 202
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4563c6b429ab0d250800000000000000
+      internalID: 5967474643759281748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5040d44ab5f8550800000000000000
+      internalID: 6165247176118371744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 157
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf304d73b4c188770800000000000000
+      internalID: 8613165396730840059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab61524cc907a40800000000000000
+      internalID: 5363959522448030230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1264bda57ea2dc080800000000000000
+      internalID: -9165622493478959583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 157
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1ada6689d61cb0800000000000000
+      internalID: -4893484773749941156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 157
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e138dc7f0e557d0800000000000000
+      internalID: -2930188627625173477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 157
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eaed6eb06beab40800000000000000
+      internalID: 5453496361026498206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 157
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614867c3a588198e0800000000000000
+      internalID: -1688418464144391146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61cdd5360783acd0800000000000000
+      internalID: -2548044503418289810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399682c21e968620800000000000000
+      internalID: 2776080023730690354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12a93580b3e0200800000000000000
+      internalID: 148120744698192341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b3837086ea1bf0800000000000000
+      internalID: -352716181426948100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 109
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a302baaf51e92110800000000000000
+      internalID: 1236767373691847589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 109
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c2b5ceb1d7e97d0800000000000000
+      internalID: -2909750750351774587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc110693269ae01a0800000000000000
+      internalID: -6841344544594718261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 60
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a2805ed732cb40800000000000000
+      internalID: 5458987126299469182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 60
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f559612e15e8bb0800000000000000
+      internalID: -4931914510440767585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 60
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be152934a019125f0800000000000000
+      internalID: -783185386916392469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 60
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08806414dfe5e6a60800000000000000
+      internalID: 7669171657273378944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 60
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b29bbd40e79f80800000000000000
+      internalID: -8099758780338489492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c41cf2cc383350800000000000000
+      internalID: 5996609711994357888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 60
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723d2eac3c9603870800000000000000
+      internalID: 8660538373076865831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Shrek_Hassle_at_the_Castle_-_Big_Bad_Wolf-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f74e4af8799ee30800000000000000
+      internalID: 4533321143127670574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

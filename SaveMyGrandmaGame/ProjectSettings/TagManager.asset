@@ -6,6 +6,8 @@ TagManager:
   tags:
   - ground
   - player
+  - left
+  - right
   layers:
   - Default
   - TransparentFX
